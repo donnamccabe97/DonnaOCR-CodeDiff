@@ -1,0 +1,8 @@
+{
+  "name": "DonnaOCR",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "74c59d12"
+}
